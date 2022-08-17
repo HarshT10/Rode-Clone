@@ -2,6 +2,9 @@
 
 - This is my third project in which I've used Tailwind CSS. This one went very smooth because of my practice with first two projects.
 
+[Netlify](https://rode-clone-harshcodes.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
